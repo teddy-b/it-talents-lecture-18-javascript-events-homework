@@ -1,5 +1,9 @@
 # IT Talents - Lecture 18 - JavaScript Events Homework
 
+Demo available at:
+
+https://rawgit.com/teddy-b/it-talents-lecture-18-javascript-events-homework/master/index.html
+
  **Задача 1:**
  
  Разработете следната мини игра, като се базирате на кода от занятието и примера със
